@@ -16,9 +16,9 @@ _Изучаю языки_
   - спортивно бальные 
 ## Связь со мной 
 * Социальные сети 	
-  + <https://vk.com/sexyunicornn>
-  - <https://instagram.com/halkyou>
-  + <https://t.me/anananastyas>
+  + [вконтакте](https://vk.com/sexyunicornn)
+  - [инстаграм](https://instagram.com/halkyou)
+  + [телеграм](https://t.me/anananastyas)
 * Почта 
   + styufeevahalk@gmail.com
   - london.me@mail.ru 
